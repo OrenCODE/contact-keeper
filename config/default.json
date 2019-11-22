@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://oren:12345@cluster0-ipgsz.mongodb.net/app?retryWrites=true&w=majority"
+}
